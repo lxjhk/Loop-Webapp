@@ -1,0 +1,16 @@
+[
+   {
+      "app_id":"8d990504-68ad-4228-af3d-cc54d59570dd",
+      "canary_mode":true,
+      "app_addr":"https://loopchat.us/swiper",
+      "app_icon":"https://img.icons8.com/color/452/google-logo.png",
+      "app_name":"Tinder Clubs"
+   },
+   {
+      "app_id":"b50ad360-b556-4359-ad9e-a05b74d5ab6e",
+      "canary_mode":false,
+      "app_addr":"https://loopchat.us/swiper",
+      "app_icon":"https://img.icons8.com/color/452/google-logo.png",
+      "app_name":"Tinder Clubs"
+   }
+]
